@@ -1,16 +1,36 @@
-# visionia
+<p align="center">
+ <h2 align="center">Vision IA</h2>
+ <p align="center">Um app para estudos de uso do Google ML Kit
 
-A new Flutter project.
 
-## Getting Started
+</p>
+<p align="center">Vamos lá?!
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+# Telas implementadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/WemersonDamasceno/google_mlkit_flutter/assets/37156004/580ee1a7-0a2c-4173-9c68-155b817bcd08
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+  
+---
+
+ <h1> Como usar </h1>
+Antes de tudo, configure o ambiente Flutter da sua maquina, veja mais em https://flutter.dev/docs/get-started/install
+
+- Faça o clone do repositório:
+$ git clone https://github.com/WemersonDamasceno/google_mlkit_flutter.git
+
+- Entre na pasta:
+$ cd visionia
+
+- Instale as dependencias:
+$ flutter pub get
+
+- Execute o App com o comando: 
+$ flutter run
+
+
+Made with :heart: and Flutter.
